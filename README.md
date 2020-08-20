@@ -19,3 +19,8 @@ Lista no ordenada html
 <ul>
  <li>primer elemento </l1>
 </ul>
+
+
+<table>
+ <tr><td>nombre</td><td>Apellido</td></tr>
+</table>
