@@ -22,7 +22,7 @@ Lista no ordenada html
 
 
 <table>
- <tr><td>nombre</td><td>Apellido</td></tr>
+ <tr><th>nombre</th><th>Apellido</th></tr>
  <tr><td>manuel</td><td>vargas</td></tr>
  <tr><td>juan</td><td>perez</td></tr>
 </table>
